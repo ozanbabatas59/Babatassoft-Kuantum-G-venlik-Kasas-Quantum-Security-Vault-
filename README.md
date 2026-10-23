@@ -1,0 +1,2 @@
+# Babatassoft-Kuantum-G-venlik-Kasas-Quantum-Security-Vault-
+Kuantum Fiziği yasalarına dayalı mutlak rastgelelik (QRNG)** kullanan, donanım hızlandırmalı ve izole bir dosya şifreleme sistemidir.  Proje, NVIDIA CUDA-Q kütüphanesini kullanarak GPU (Örn: RTX 4050) üzerinde donanımsal kuantum devre simülasyonu yapar ve elde edilen kuantum entropisini, askeri sınıf AES-256-GCM algoritmasıyla harmanlar.
